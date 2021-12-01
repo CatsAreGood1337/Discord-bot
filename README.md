@@ -7,5 +7,5 @@
 - Вставьте бот токен в файл "config.py"
 - Запустите файл `start.bat`
 
-Maintained: [pip install -r requirements.txt]
+Maintained: [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 ```markdown
